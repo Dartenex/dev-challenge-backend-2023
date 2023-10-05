@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Cell" ALTER COLUMN "result" SET DATA TYPE TEXT;
